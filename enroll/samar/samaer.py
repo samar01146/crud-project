@@ -1,2 +1,0 @@
-def df(self):
-    pass
